@@ -1,9 +1,9 @@
-# This is a research project I made that combines my interest in space and finance 
+# A hands-on project that merges my passion for space exploration with in-depth financial analysis.
 
 orbital-habitat-finance
 # Capital Stacks and IRR Analysis: Financing a 10-Person Orbital Habitat
 
-**Thesis Question:**  
+# **Thesis Question:**  
 How do different financing structures (100% equity, 70/30 senior–equity, and a 70/15/15 senior–mezzanine–equity stack) affect project returns (IRR), debt‐service coverage (DSCR), and sponsor risk in a 3-year model?
 
 ---
@@ -69,7 +69,7 @@ Break-even Sensitivity: NPV ≥ 0 only at ≥ 70 % utilization & ≥ $7 M ticket
 
 - Build a small investor pitch deck with these charts
 
-# This work is released under the MIT License. Feel free to reuse or adapt for your portfolio.
+**This work is released under the MIT License. Feel free to reuse or adapt for your portfolio.**
 
 # Created by Aditya Upadhyay 
 
