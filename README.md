@@ -71,7 +71,7 @@ Break-even Sensitivity: NPV ≥ 0 only at ≥ 70 % utilization & ≥ $7 M ticket
 
 # This work is released under the MIT License. Feel free to reuse or adapt for your portfolio.
 
-# Made by Aditya Upadhyay 
+# Created by Aditya Upadhyay 
 
 
 
