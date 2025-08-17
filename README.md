@@ -69,7 +69,6 @@ Break-even Sensitivity: NPV ≥ 0 only at ≥ 70 % utilization & ≥ $7 M ticket
 
 - Build a small investor pitch deck with these charts
 
-**This work is released under the MIT License. Feel free to reuse or adapt for your portfolio.**
 
 # Created by Aditya Upadhyay 
 
